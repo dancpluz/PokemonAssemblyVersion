@@ -13,6 +13,31 @@ Group project made in University of Brasília, for the course "Organização e A
 
 You can find the more descriptive report, in scientific article model, only in Portuguese [here](Grupo7_Trabalho.pdf).
 
+## 🎮 Game
+
+<picture>
+  <img src="https://user-images.githubusercontent.com/64702639/222989664-66eee7dd-ae6a-4f79-86bf-90c4768f1055.gif" align="right" width="400"/>
+</picture>
+
+- Story with dialog boxes
+- Soundtrack
+- Usable items and money system
+- 5 different types of pokemons
+- Map and structures you can enter
+- Battles with AI pokemons
+- Battle scenes with action menu
+- Player movement
+- Interactive NPCs
+- Pause menu
+
+- Special terrains with random pokemon generation
+
+## 🛠 Built With
+
+<a href="https://github.com/topics/riscv">
+  <img src="https://raw.githubusercontent.com/github/explore/592cc967e9ebbc60f2a532f577efa072f4bfccaa/topics/riscv/riscv.png" width="100"/>
+</a>
+
 ## 👥 Group
 
 - **[Vinícius](https://github.com/Vini-ara):** Game logic, objects, print sprites
@@ -25,3 +50,29 @@ You can find the more descriptive report, in scientific article model, only in P
 
 - **Prof. Lamar:** Teacher who taught us and proposed the project
 - **Monitores:** Teacher assistants that helped us so much, thanks to Thiago Tomás, Eduardo Freire, Ruan Petrus, and others that helped too.
+
+## 👨‍💻 How to Play
+
+> Java is a prerequisite to run
+
+1. Download the repo
+
+2. Open the ```/src``` folder
+
+3. Drag the file ```main.s``` to the executable ```fpgrars.exe```
+
+or
+
+1. Clone the repo
+
+2. Open the ```/src``` folder
+
+3. Run ```fpgrars main.s```
+
+### Keybinds
+
+- W = walk up
+- A = walk left
+- S = walk down
+- D = walk right
+- Z = interact
