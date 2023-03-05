@@ -13,7 +13,6 @@ Group project made in University of Brasília, for the course "Organização e A
 
 You can find the more descriptive report, in scientific article model, only in Portuguese [here](Grupo7_Trabalho.pdf).
 
-
 ## 👥 Group
 
 - **[Vinícius](https://github.com/Vini-ara):** Game logic, objects, print sprites
@@ -24,4 +23,5 @@ You can find the more descriptive report, in scientific article model, only in P
 
 ## 🤝 Contributions 
 
-- **Profa. Roberta Barbosa:** Teacher that oriented us and proposed the project
+- **Prof. Lamar:** Teacher who taught us and proposed the project
+- **Monitores:** Teacher assistants that helped us so much, thanks to Thiago Tomás, Eduardo Freire, Ruan Petrus, and others that helped too.
