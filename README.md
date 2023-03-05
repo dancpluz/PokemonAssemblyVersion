@@ -1,4 +1,3 @@
-
 <picture>
   <img src="https://user-images.githubusercontent.com/64702639/222986019-f645f57e-ac03-4276-9da3-345a3dd31d1a.png" width="30%"/>
 </picture>
@@ -22,15 +21,19 @@ You can find the more descriptive report, in scientific article model, only in P
 - Story with dialog boxes
 - Soundtrack
 - Usable items and money system
-- 5 different types of pokemons
+- Different types and battle moves
+- 6 unique pokemons
 - Map and structures you can enter
 - Battles with AI pokemons
 - Battle scenes with action menu
 - Player movement
 - Interactive NPCs
 - Pause menu
-
 - Special terrains with random pokemon generation
+
+## 🖼 Design
+
+
 
 ## 🛠 Built With
 
@@ -49,24 +52,20 @@ You can find the more descriptive report, in scientific article model, only in P
 ## 🤝 Contributions 
 
 - **Prof. Lamar:** Teacher who taught us and proposed the project
-- **Monitores:** Teacher assistants that helped us so much, thanks to Thiago Tomás, Eduardo Freire, Ruan Petrus, and others that helped too.
+- **Monitores:** Teacher assistants that helped us so much, thanks to Thiago Tomás, Eduardo Freire, Ruan Petrus, and others that helped too
 
 ## 👨‍💻 How to Play
 
 > Java is a prerequisite to run
 
 1. Download the repo
-
 2. Open the ```/src``` folder
-
 3. Drag the file ```main.s``` to the executable ```fpgrars.exe```
 
 or
 
 1. Clone the repo
-
 2. Open the ```/src``` folder
-
 3. Run ```fpgrars main.s```
 
 ### Keybinds
