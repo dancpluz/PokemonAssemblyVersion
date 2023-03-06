@@ -63,14 +63,14 @@ We designed almost every aspect of the game based on our university culture, pok
 > Java is a prerequisite to run
 
 1. Download the repo
-2. Open the ```/src``` folder
-3. Drag the file ```main.s``` to the executable ```fpgrars.exe```
+2. Open the `/src` folder
+3. Drag the file `main.s` to the executable `fpgrars.exe`
 
 or
 
 1. Clone the repo
-2. Open the ```/src``` folder
-3. Run ```fpgrars main.s```
+2. Open the `/src` folder
+3. Run `fpgrars main.s`
 
 ### Keybinds
 
