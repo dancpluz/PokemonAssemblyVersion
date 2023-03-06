@@ -34,7 +34,7 @@ You can find the more descriptive report, in scientific article model, only in P
 ## 🖼 Design
 
 <picture>
-  <img src="https://user-images.githubusercontent.com/64702639/223018760-caef73ec-f7e2-4851-9ff2-0d638a586b07.png" align="right" width="250"/>
+  <img src="https://user-images.githubusercontent.com/64702639/223018760-caef73ec-f7e2-4851-9ff2-0d638a586b07.png" align="right" width="200"/>
 </picture>
 
 We designed almost every aspect of the game based on our university culture, pokemons are inspired from animals that we find in campus, with a lot of references and inside jokes. A lot of game design concepts we brought from the original game itself, like the battles, the maps, and gave a bit of our own twist. The story is about a freshman who finds himself trapped in the city of OACapulco and the only way to escape is to defeat the bus driver in a pokemon battle, to do this, he enlists the help of Professor Lamar to instruct him and give him his pokemon to battle, then the freshman must venture around the city chasing wild pokemons until he can buy the ticket and fight the bus driver.
